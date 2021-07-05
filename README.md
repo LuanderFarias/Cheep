@@ -12,7 +12,7 @@ Download-Me: [Click Here](https://discord.com/api/oauth2/authorize?client_id=724
 - Module That Cleans The Pc's Memory And Adjusts For The Best Possible Performance On The Computer.
 
 ### Keyboard Module:
-- Module Where You Can Test Typewriter And Make Your Keyboard Sound As a Mechanical Keyboard.
+- Module Where You Can Test Your Type Speed And Make Your Keyboard Sound As a Mechanical Keyboard.
 
 ### Wallpaper Module:
 - Module For Apply Idle Or Animated Wallpapers!!
