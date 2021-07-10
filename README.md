@@ -4,21 +4,26 @@ A Program For Cleanup, Modify, Boost Your Computer And More!!
 
 ## 💻 Download
 
-Download-Me: [Click Here](https://discord.com/api/oauth2/authorize?client_id=724332538629324822&permissions=4294967287&redirect_uri=https%3A%2F%2Fdiscord.events.stdlib.com%2Fdiscord%2Fauth%2F&scope=bot)
+Download-Me: [Click Here](https://CheepWebsite.luanderfarias.repl.co)
 
 ## 🔧 Functions
 
 ### Bass Boost:
 - Module That Cleans The Pc's Memory And Adjusts For The Best Possible Performance On The Computer.
 
+### Game Boost:
+- Module That Can Make The Game Runs With "Custom Performance" It Adjusts Resolution, RenderDistance, Reflexions And More....
+
 ### Keyboard Module:
 - Module Where You Can Test Your Type Speed And Make Your Keyboard Sound As a Mechanical Keyboard.
 
 ### Wallpaper Module:
-- Module For Apply Idle Or Animated Wallpapers!!
+- Module For Apply Static Or Animated Wallpapers!!
 
 ### DIY Module:
-- Tutorials Of How To Modify Your Pherifericals To Place Led's, Case Repair And Others...
+- Tutorials Of How To Modify Your Pherifericals To Place Led's, Casemod And Others...
+
+### And More!!
 
 - Others Modules Coming Soon...
 
