@@ -39,10 +39,10 @@ Remember To Follow License Requirements...
 
 ## 💰 Donate
 
-[![Patreon Badge](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white&link=https://patreon.com/LuanderFarias)](patreon.com/LuanderFarias)
+[![Patreon Badge](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white&link=https://patreon.com/LuanderFarias)](https://patreon.com/LuanderFarias)
 
 ## 🧑 About-Me
 
-[![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&link=https://discord.gg/ZP7fGys)](discord.gg/ZP7fGys)
+[![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&link=https://discord.gg/ZP7fGys)](https://discord.gg/ZP7fGys)
 [![Codepen Badge](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white&link=https://codepen.io/LuanderFarias)](https://codepen.io/LuanderFarias)
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/LuanderFarias)](github.com/LuanderFarias)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/LuanderFarias)](https://github.com/LuanderFarias)
