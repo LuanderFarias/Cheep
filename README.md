@@ -18,10 +18,14 @@ A Program For Cleanup, Modify, Boost Your Computer And More!!
 - Module Where You Can Test Your Type Speed And Make Your Keyboard Sound As a Mechanical Keyboard.
 
 ### Wallpaper Module:
-- Module For Apply Static Or Animated Wallpapers!!
+- Module For Apply Static Or Animated Wallpapersc
 
 ### DIY Module:
 - Tutorials Of How To Modify Your Pherifericals To Place Led's, Casemod And Others...
+
+### Screen Recorder Module:
+
+- Module For Rec Your Screen!!
 
 ### And More!!
 
