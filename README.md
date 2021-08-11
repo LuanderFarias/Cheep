@@ -4,7 +4,7 @@ A Program For Cleanup, Modify, Boost Your Computer And More!!
 
 ## 💻 Download
 
-[Download](https://cheep.luanderfarias.repl.co/)
+[Download](https://github.com/LuanderFarias/Cheep/releases)
 
 ## 🔧 Functions
 
