@@ -1,5 +1,3 @@
-<h1 align="center">PROJECT PAUSED</h1>
-
 # Cheep
 
 A Program For Cleanup, Modify, Boost Your Computer And More!! 
@@ -11,16 +9,16 @@ A Program For Cleanup, Modify, Boost Your Computer And More!!
 ## 🔧 Functions
 
 ### Bass Boost:
-- Module That Cleans The Pc's Memory And Adjusts For The Best Possible Performance On The Computer.
+- Module That Cleans The Pc's Memory And Adjusts For The Best Possible Performance On The Computer!
 
 ### Game Boost:
-- Module That Can Make The Game Runs With "Custom Performance" It Adjusts Resolution, RenderDistance, Reflexions And More....
+- Module That Can Make The Game Runs With "Custom Performance" It Adjusts Resolution, RenderDistance, Reflexions And More...
 
 ### Keyboard Module:
 - Module Where You Can Test Your Type Speed And Make Your Keyboard Sound As a Mechanical Keyboard.
 
 ### Wallpaper Module:
-- Module For Apply Static Or Animated Wallpapersc
+- Module For Apply Static Or Animated Wallpapers.
 
 ### DIY Module:
 - Tutorials Of How To Modify Your Pherifericals To Place Led's, Casemod And Others...
@@ -28,6 +26,10 @@ A Program For Cleanup, Modify, Boost Your Computer And More!!
 ### Screen Recorder Module:
 
 - Module For Rec Your Screen!!
+
+### Stream Module:
+
+- Module For Make Lives On That Purple And That Red Plataform 😉
 
 ### And More!!
 
@@ -52,4 +54,3 @@ Remember To Follow License Requirements...
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/luanderfarias/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/LuanderFarias)
 [![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&link=https://discord.gg/ZP7fGys)](https://discord.gg/ZP7fGys)
-[![Codepen Badge](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white&link=https://codepen.io/LuanderFarias)](https://codepen.io/LuanderFarias)
