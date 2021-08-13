@@ -1,37 +1,54 @@
-## Welcome to GitHub Pages
+# Cheep
 
-You can use the [editor on GitHub](https://github.com/LuanderFarias/Cheep/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Cheep Is a Program For Cleanup, Modify, Boost Your Computer, Rec And Stream Your Screen And More!!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 🔧 Functions
 
-### Markdown
+### Bass Boost:
+- Module That Cleans The Pc's Memory And Adjusts For The Best Possible Performance On The Computer!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Game Boost:
+- Module That Can Make The Game Runs With "Custom Performance" It Adjusts Resolution, RenderDistance, Reflexions And More...
 
-```markdown
-Syntax highlighted code block
+### Keyboard Module:
+- Module Where You Can Test Your Type Speed And Make Your Keyboard Sound As a Mechanical Keyboard.
 
-# Header 1
-## Header 2
-### Header 3
+### Wallpaper Module:
+- Module For Apply Static Or Animated Wallpapers.
 
-- Bulleted
-- List
+### DIY Module:
+- Tutorials Of How To Modify Your Pherifericals To Place Led's, Casemod And Others...
 
-1. Numbered
-2. List
+### Screen Recorder Module:
 
-**Bold** and _Italic_ and `Code` text
+- Module For Rec Your Screen!!
 
-[Link](url) and ![Image](src)
-```
+### Stream Module:
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- Module For Make Lives On That Purple And That Red Plataform 😉
 
-### Jekyll Themes
+### And More!!
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LuanderFarias/Cheep/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- Others Modules Coming Soon...
+
+For See The Current Developement Access The [Project Planning](https://github.com/LuanderFarias/Cheep/projects/1).
+
+## 🤝 contribution
+
+Project Open For Help...
+
+Remember To Follow License Requirements...
+
+## 🔖 License
+
+[GPL-3.0](https://choosealicense.com/licenses/gpl-3.0/)
+
+## 💰 Donate
+
+[![Patreon Badge](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white&link=https://patreon.com/LuanderFarias)](https://patreon.com/LuanderFarias)
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/luanderfarias/)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/LuanderFarias)
+[![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&link=https://discord.gg/ZP7fGys)](https://discord.gg/ZP7fGys)
