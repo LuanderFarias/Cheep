@@ -1,10 +1,6 @@
 # Cheep
 
-A Program For Cleanup, Modify, Boost Your Computer And More!! 
-
-## 💻 Download
-
-[Download](https://github.com/LuanderFarias/Cheep/releases)
+Cheep Is a Program For Cleanup, Modify, Boost Your Computer, Rec And Stream Your Screen And More!!
 
 ## 🔧 Functions
 
@@ -35,6 +31,8 @@ A Program For Cleanup, Modify, Boost Your Computer And More!!
 
 - Others Modules Coming Soon...
 
+For See The Current Developement Access The [Project Planning](https://github.com/LuanderFarias/Cheep/projects/1).
+
 ## 🤝 contribution
 
 Project Open For Help...
@@ -49,7 +47,7 @@ Remember To Follow License Requirements...
 
 [![Patreon Badge](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white&link=https://patreon.com/LuanderFarias)](https://patreon.com/LuanderFarias)
 
-## 🧑 About-Me
+### Support or Contact
 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/luanderfarias/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/LuanderFarias)
