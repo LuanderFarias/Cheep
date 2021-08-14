@@ -31,7 +31,9 @@ Cheep Is a Program For Cleanup, Modify, Boost Your Computer, Rec And Stream Your
 
 - Others Modules Coming Soon...
 
-For See The Current Developement Access The [Project Planning](https://github.com/LuanderFarias/Cheep/projects/1).
+#
+
+For See The Current Developement Access The Project Planning On [Github](https://github.com/LuanderFarias/Cheep/projects/1) Or [Trello](https://trello.com/b/I0aytkIg/cheep).
 
 ## 🤝 contribution
 
