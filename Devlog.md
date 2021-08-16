@@ -18,6 +18,8 @@
 
 <p align="center">Finaly launched the first public beta!!</p>
 
+<p align="center">Started Developing Beta v1.0.5</p>
+
 #
 
 <h1 align="center">That's All For Now</h1>
