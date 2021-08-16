@@ -1,0 +1,25 @@
+{
+  "name": "cheep",
+  "version": "1.0.0",
+  "description": "Be a Gamer Without Paying a Fortune!",
+  "main": "index.js",
+  "scripts": {
+    "test": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuanderFarias/Cheep.git"
+  },
+  "author": "@LuanderFarias",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/LuanderFarias/Cheep/issues"
+  },
+  "homepage": "https://github.com/LuanderFarias/Cheep",
+  "devDependencies": {
+    "electron": "^13.1.9"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.4"
+  }
+}
