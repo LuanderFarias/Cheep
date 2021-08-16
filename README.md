@@ -2,6 +2,10 @@
 
 Cheep Is a Program For Cleanup, Modify, Boost Your Computer, Rec And Stream Your Screen And More!!
 
+For See The Current Developement Access The Project Planning On [Github](https://github.com/LuanderFarias/Cheep/projects/1) Or [Trello](https://trello.com/b/I0aytkIg/cheep).
+
+For See More Detailed Developement Access The Project [Devlog](/Devlog.md)
+
 ## 🔧 Functions
 
 ### Bass Boost:
@@ -30,10 +34,6 @@ Cheep Is a Program For Cleanup, Modify, Boost Your Computer, Rec And Stream Your
 ### And More!!
 
 - Others Modules Coming Soon...
-
-#
-
-For See The Current Developement Access The Project Planning On [Github](https://github.com/LuanderFarias/Cheep/projects/1) Or [Trello](https://trello.com/b/I0aytkIg/cheep).
 
 ## 🤝 contribution
 
