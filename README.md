@@ -49,7 +49,7 @@ Remember To Follow License Requirements...
 
 [![Patreon Badge](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white&link=https://patreon.com/LuanderFarias)](https://patreon.com/LuanderFarias)
 
-### Support or Contact
+### Support Or Contact
 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/luanderfarias/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/LuanderFarias)
