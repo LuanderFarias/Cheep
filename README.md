@@ -33,12 +33,12 @@ Cheep Is a Program For Cleanup, Modify, Boost Your Computer, Rec And Stream Your
 
 ## See Project Developement:
 
-For See The Current Developement Access, The Project Planning On:
+For See The Current Developement, Access The Project Planning On:
 
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LuanderFarias/Cheep/projects/1)
 [![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com/b/I0aytkIg/cheep)
 
-For See More Detailed Developement Access, The Project Devlog:
+For See More Detailed Developement, Access The Project Devlog:
 
 [![Devlog](https://img.shields.io/badge/Devlog-181818?style=for-the-badge&logo=Files&logoColor=white
 )](/Devlog.md)
