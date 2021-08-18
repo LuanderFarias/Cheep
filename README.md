@@ -40,11 +40,11 @@ For See The Current Developement, Access The Project Planning On:
 
 For See More Detailed Developement, Access The Project Devlog:
 
-[![Devlog](https://img.shields.io/badge/Devlog-181818?style=for-the-badge&logo=Files&logoColor=white
+[![Devlog](https://img.shields.io/badge/Devlog-999999?style=for-the-badge&logo=Files&logoColor=white
 )](/Devlog.md)
 
 ## Made With ❤️ And:
-[![UBUNTU](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
+[![ZORIN](https://img.shields.io/badge/ZorinOS_15.3_lite-0CC1F3?style=for-the-badge&logo=Zorin&logoColor=white)](https://zorin.com/)
 [![IDE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
