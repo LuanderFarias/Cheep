@@ -46,7 +46,7 @@ Remember To Follow License Requirements...
 [GPL-3.0](https://choosealicense.com/licenses/gpl-3.0/)
 
 ## 💰 Donate
-
+[![Ko-fi Badge](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/luanderfarias)
 [![Patreon Badge](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white&link=https://patreon.com/LuanderFarias)](https://patreon.com/LuanderFarias)
 
 ### Support Or Contact
