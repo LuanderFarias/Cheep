@@ -1,6 +1,7 @@
 // main.js
 const {app, BrowserWindow, Menu, Tray} = require('electron')
 const path = require('path')
+const url = require('url')
 
 let appIcon = null
 Menu.setApplicationMenu(false)
@@ -10,7 +11,11 @@ function createWindow () {
     width: 800,
     height: 500,
     resizable: false,
+    backgroundColor: "#111",
+    icon: __dirname + 'sources/icon.png',
     webPreferences: {
+      preload: path.join(__dirname, 'preload.js'),
+      nodeIntegration: true
     }
   })
   mainWindow.loadFile('index.html')
