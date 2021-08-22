@@ -1,7 +1,7 @@
 {
   "name": "cheep",
   "version": "1.0.5",
-  "description": "Be a Gamer without Paying a Fortune!",
+  "description": "Be a Gamer without Paying a Fortune!!",
   "main": "main.js",
   "scripts": {
     "test": "electron ."
