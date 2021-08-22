@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap');
+
+body{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  background: black;
+  flex-direction: column;
+  margin: 0;
+  padding: 0;
+  outline: none;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+
+.menu {
+  height: 100%;
+  width: 50px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: black;
+  overflow-x: hidden;
+  padding-top: 20px;
+  border-right: 3px solid white;
+}
+
+.menu a{
+  margin: 5px 8px 25px 17px;
+  text-decoration: none;
+  font-size: 15px;
+  color: white;
+  display: block ;
+}
+
+/*  last child dont work :(  */
+.menu :nth-child(8){
+  margin-top: 190px;
+}
+
+.menu :nth-child(3){
+  color: gray;
+}
+
+.menu a:hover {
+  color: gray;
+}
+
+h1{
+  text-align: center;
+  color: white;
+  margin-bottom: 10px;
+}
+
+.switches{
+  display:inline-block;
+}
+
+select{
+  margin: 0px 230px;
+  background: black;
+  border: 2px solid white;
+  border-radius: 5px;
+  width: 290px;
+  margin-bottom: 10px;
+  color: white;
+  text-align: center;
+  outline: 0;
+}
+
+.keyboard{
+  width: 60%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.keyboard-box{
+  min-width: 750px;
+  max-width: 1000px;
+}
+
+.keys{
+  display: flex;
+  justify-content: center;
+}
+
+.keys input{
+  height: 50px;
+  min-width: 50px;
+  padding: 5px;
+  outline: none;
+  background: black;
+  margin: 5px;
+  border: 3px solid white;
+  color: white;
+  font-size: 20px;
+  border-radius: 10px;
+  cursor: default;
+}
+
+input[value="——————————"]{
+  width: 50%;
+}
+
+footer p:nth-child(2){
+  color: red;
+}
+
+p{
+  margin-top: 5px;
+  text-align: center;
+  color: white;
+}
