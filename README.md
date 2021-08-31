@@ -31,26 +31,10 @@ Cheep Is a Program For Cleanup, Modify, Boost Your Computer, Rec And Stream Your
 
 - Others Modules Coming Soon...
 
-## How To Use It?
-
-Download it in pc and in your smartphone
-
-Computer Version:
+## Download
 
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]()
-
-Cellphone Version:
-
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)]()
-
-Tutorial:
-
-- Open cheep
-- Connect the cellphone and the webcam
-- Open steam VR
-- Click start
-- Good Luck!
 
 ## See Project Developement:
 
@@ -65,8 +49,8 @@ For See More Detailed Developement, Access The Project Devlog:
 )](/Devlog.md)
 
 ## Made With ❤️ And:
-[![ZORIN](https://img.shields.io/badge/ZorinOS_15.3_lite-0CC1F3?style=for-the-badge&logo=Zorin&logoColor=white)](https://zorin.com/)
-[![IDE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
+[![ZORIN](https://img.shields.io/badge/Zorin_OS_16-0CC1F3?style=for-the-badge&logo=Zorin&logoColor=white)](https://zorin.com/)
+[![IDE](https://img.shields.io/badge/Vscode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 [![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
