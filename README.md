@@ -31,6 +31,27 @@ Cheep Is a Program For Cleanup, Modify, Boost Your Computer, Rec And Stream Your
 
 - Others Modules Coming Soon...
 
+## How To Use It?
+
+Download it in pc and in your smartphone
+
+Computer Version:
+
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]()
+
+Cellphone Version:
+
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)]()
+
+Tutorial:
+
+- Open cheep
+- Connect the cellphone and the webcam
+- Open steam VR
+- Click start
+- Good Luck!
+
 ## See Project Developement:
 
 For See The Current Developement, Access The Project Planning On:
