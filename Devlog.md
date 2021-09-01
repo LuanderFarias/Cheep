@@ -22,4 +22,8 @@
 
 #
 
+## 17/08/2021
+
+### Project Paused Caused of problems in school and my pc hd
+
 # That's All For Now
