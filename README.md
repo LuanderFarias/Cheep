@@ -36,7 +36,8 @@ Cheep Is a Program For Cleanup, Modify, Boost Your Computer, Rec And Stream Your
 Computer Version:
 
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/LuanderFarias/Cheep/releases)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/LuanderFarias/Cheep/releases)
+[![Linux](https://img.shields.io/badge/Linux-FF6600?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/LuanderFarias/Cheep/releases)
+[![MacOs](https://img.shields.io/badge/Mac_Os-000000?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/LuanderFarias/Cheep/releases)
 
 Future Smartphone Version?
 
