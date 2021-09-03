@@ -33,14 +33,18 @@ Cheep Is a Program For Cleanup, Modify, Boost Your Computer, Rec And Stream Your
 
 ## Download
 
+Computer Version:
+
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/LuanderFarias/Cheep/releases)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/LuanderFarias/Cheep/releases)
+
+Future Smartphone Version?
 
 ## See Project Developement:
 
 For See The Current Developement, Access The Project Planning On:
 
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LuanderFarias/Cheep/projects/1)
+[![Github](https://img.shields.io/badge/GitHub_Projects-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LuanderFarias/Cheep/projects/1)
 [![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com/b/I0aytkIg/cheep)
 
 For See More Detailed Developement, Access The Project Devlog:
@@ -64,8 +68,7 @@ Project Open For Help And Any Ideas Are Welcome!
 Remember To Follow License Requirements...
 
 ## 🔖 License
-
-[GPL-3.0](https://choosealicense.com/licenses/gpl-3.0/)
+[![LICENSE](https://img.shields.io/badge/Custom_GPL_3.0-E58080?style=for-the-badge&logo=bookstack&logoColor=white)](/LICENSE)
 
 ## 💰 Donate
 [![Ko-fi Badge](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/luanderfarias)
