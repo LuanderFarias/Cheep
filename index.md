@@ -31,11 +31,21 @@ Cheep Is a Program For Cleanup, Modify, Boost Your Computer, Rec And Stream Your
 
 - Others Modules Coming Soon...
 
+## Download
+
+Computer Version:
+
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/LuanderFarias/Cheep/releases)
+[![Linux](https://img.shields.io/badge/Linux-FF6600?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/LuanderFarias/Cheep/releases)
+[![MacOs](https://img.shields.io/badge/Mac_Os-000000?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/LuanderFarias/Cheep/releases)
+
+Future Smartphone Version?
+
 ## See Project Developement:
 
 For See The Current Developement, Access The Project Planning On:
 
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LuanderFarias/Cheep/projects/1)
+[![Github](https://img.shields.io/badge/GitHub_Projects-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LuanderFarias/Cheep/projects/1)
 [![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com/b/I0aytkIg/cheep)
 
 For See More Detailed Developement, Access The Project Devlog:
@@ -44,8 +54,8 @@ For See More Detailed Developement, Access The Project Devlog:
 )](/Devlog.md)
 
 ## Made With ❤️ And:
-[![ZORIN](https://img.shields.io/badge/ZorinOS_15.3_lite-0CC1F3?style=for-the-badge&logo=Zorin&logoColor=white)](https://zorin.com/)
-[![IDE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
+[![ZORIN](https://img.shields.io/badge/Zorin_OS_16-0CC1F3?style=for-the-badge&logo=Zorin&logoColor=white)](https://zorin.com/)
+[![IDE](https://img.shields.io/badge/Vscode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 [![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
@@ -59,8 +69,7 @@ Project Open For Help And Any Ideas Are Welcome!
 Remember To Follow License Requirements...
 
 ## 🔖 License
-
-[GPL-3.0](https://choosealicense.com/licenses/gpl-3.0/)
+[![LICENSE](https://img.shields.io/badge/Custom_GPL_3.0-E58080?style=for-the-badge&logo=bookstack&logoColor=white)](/LICENSE)
 
 ## 💰 Donate
 [![Ko-fi Badge](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/luanderfarias)
