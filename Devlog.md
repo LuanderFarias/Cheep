@@ -26,4 +26,8 @@
 
 ### Project Paused Caused of problems in school and my pc hd
 
+## 06/09/2021
+
+### Fixed my pc :3
+
 # That's All For Now
