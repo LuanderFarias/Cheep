@@ -37,7 +37,6 @@ Computer Version:
 
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/LuanderFarias/Cheep/releases)
 [![Linux](https://img.shields.io/badge/Linux-FF6600?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/LuanderFarias/Cheep/releases)
-[![MacOs](https://img.shields.io/badge/Mac_Os-000000?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/LuanderFarias/Cheep/releases)
 
 Future Smartphone Version?
 
@@ -45,7 +44,7 @@ Future Smartphone Version?
 
 For See The Current Developement, Access The Project Planning On:
 
-[![Github](https://img.shields.io/badge/GitHub_Projects-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LuanderFarias/Cheep/projects/1)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LuanderFarias/Cheep/projects/1)
 [![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com/b/I0aytkIg/cheep)
 
 For See More Detailed Developement, Access The Project Devlog:
