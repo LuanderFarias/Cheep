@@ -17,12 +17,7 @@ jobs:
       - name: Install Node.js, NPM and Yarn
         uses: actions/setup-node@v1
         with:
-          node-version: 14
-          max_attempts: 5
-
-      - name: Install libarchive-tools
-        if: startsWith(matrix.os, 'ubuntu')
-        run: sudo apt-get install --no-install-recommends -y libopenjp2-tools libarchive-tools gcc-multilib g++-multilib
+          node-version: 10
 
       - name: Build/release Electron app
         uses: samuelmeuli/action-electron-builder@v1
