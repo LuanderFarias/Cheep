@@ -12,15 +12,13 @@ jobs:
 
     steps:
       - name: Check out Git repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v1
 
-      - name: Setup Node.js environment
-        uses: actions/setup-node@v2
+      - name: Install Node.js, NPM and Yarn
+        uses: actions/setup-node@v1
         with:
-          node-version: '14'
-      - run: npm install
-      - run: npm test
-  
+          node-version: 10
+
       - name: Build/release Electron app
         uses: samuelmeuli/action-electron-builder@v1
         with:
