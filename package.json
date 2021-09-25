@@ -2,7 +2,7 @@
   "name": "cheep",
   "description": "Be a Gamer without Paying a Fortune!!",
   "author": "@LuanderFarias",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "license": "GPL-3.0",
   "main": "index.js",
   "scripts": {
@@ -14,12 +14,6 @@
   "build": {
 	"appId": "com.LuanderFarias.Cheep",
 	"productName": "Cheep",
-	"mac": {
-		"category": "public.app-category.utilities"
-	},
-	"dmg": {
-		"icon": false
-	},
 	"linux": {
 		"target": [
         	"AppImage",
