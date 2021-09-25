@@ -24,4 +24,8 @@
 - create a [discussion](https://github.com/LuanderFarias/Cheep/discussions/1) of why does cheep developement takes so long...
 - i'm not working on cheep cause some of the problems listed on the discussion
 
+## 25/09/2021
+- created [for-the-devs.md](for-the-devs.md) to the devs who wants to help :)
+- updated some copyright things...
+
 # That's All For Now
