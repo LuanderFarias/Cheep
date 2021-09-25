@@ -2,37 +2,36 @@
   "name": "cheep",
   "description": "Be a Gamer without Paying a Fortune!!",
   "author": "@LuanderFarias",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "license": "GPL-3.0",
   "main": "index.js",
   "scripts": {
-    "test": "electron .",
-    "postinstall": "electron-builder install-app-deps",
-		"build": "electron-builder --mac --windows --linux",
-		"release": "electron-builder --mac --windows --linux --publish always"
+	"test": "electron .",
+	"postinstall": "electron-builder install-app-deps",
+	"build": "electron-builder --mac --windows --linux",
+	"release": "electron-builder --mac --windows --linux --publish always"
   },
-	"build": {
-		"appId": "com.LuanderFarias.Cheep",
-		"productName": "Cheep",
-		"mac": {
-			"category": "public.app-category.utilities"
-		},
-		"dmg": {
-			"icon": false
-		},
-		"linux": {
-			"target": [
-        "AppImage",
-        "deb"
-      ]
-			"category": "Development"
-		}
-    "win": {
-      "target": "NSIS",
-      "icon": false
-    }
-  },
+  "build": {
+	"appId": "com.LuanderFarias.Cheep",
+	"productName": "Cheep",
+	"mac": {
+		"category": "public.app-category.utilities"
 	},
+	"dmg": {
+		"icon": false
+	},
+	"linux": {
+		"target": [
+        	"AppImage",
+        	"deb"
+		]
+	"category": "Development"
+	},
+	"win": {
+		"target": "NSIS",
+		"icon": false
+	}
+},
   "dependencies": {},
   "devDependencies": {
     "electron": "latest",
