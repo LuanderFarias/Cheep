@@ -1,15 +1,15 @@
 name: Test & Build
 on: push
-
 jobs:
+
   Test:
     name: Test on node ${{ matrix.node_version }} and ${{ matrix.os }}
     runs-on: ${{ matrix.os }}
     strategy:
-**fail-fast: false** matrix:
+      fail-fast: false
+      matrix:
         node_version: [8.x, 10.x, 12.x]
         os: [ubuntu-latest, windows-latest]
-
     steps:
       - name: Checkout
         uses: actions/checkout@v1
@@ -29,9 +29,9 @@ jobs:
     name: Linux build on node ${{ matrix.node_version }}
     runs-on: ubuntu-latest
     strategy:
-**fail-fast: false** matrix:
+      fail-fast: false
+      matrix:
         node_version: [8.x, 10.x, 12.x]
-
     steps:
       - name: Checkout
         uses: actions/checkout@v1
