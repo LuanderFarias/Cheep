@@ -17,8 +17,6 @@ jobs:
       uses: actions/setup-node@v2
       with:
         node-version: ${{ matrix.node-version }}
-        cache: 'npm'
-    - run: npm install
     
     - name: Build/release Electron app
       uses: samuelmeuli/action-electron-builder@v1
