@@ -1,7 +1,7 @@
 <h1 align="center">Devlog</h1>
 
 ## 14/08/2021
-- Started to develop cheep using electron and zorinOS 15.3
+- Started to develop cheep using electron and zorinOS Lite 15.3
 
 ## 15/08/2021
 - First gui finished just 1 module acessible but for now that's good...
@@ -19,5 +19,9 @@
 - update [readme.md](https://github.com/LuanderFarias/Cheep/blob/main/README.md) removing mac os option
 - start working in Bass Boost module
 - updated trello
+
+## 24/09/2021
+- create a [discussion](https://github.com/LuanderFarias/Cheep/discussions/1) of why does cheep developement takes so long...
+- i'm not working on cheep cause some of the problems listed on the discussion
 
 # That's All For Now
