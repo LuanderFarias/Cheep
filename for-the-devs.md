@@ -44,4 +44,4 @@ Remember To Follow License Requirements...
 [![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&link=https://discord.gg/ZP7fGys)](https://discord.gg/ZP7fGys)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luander-de-faria-474269205/)
 
-<p align="center">Copyright © 2021 LuanderFarias</p>
+<p align="center">Copyright © 2021 Luander De Faria</p>
