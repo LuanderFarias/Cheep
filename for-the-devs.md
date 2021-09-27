@@ -23,7 +23,7 @@ npm test
 - Be sure you installed [electron-builder](https://www.electron.build/)
 - use:
 ```sh
-npm build
+npm run build
 ```
 
 ## 🤝 contribution
