@@ -8,7 +8,7 @@ Cheep Is a Program For Cleanup, Modify, Boost Your Computer, Rec And Stream Your
 - `Electron`
 - `Node.js`
 - `Electron Builder`
-- `Fontawesome`
+- `Font awesome`
 - `Octokit.js`
 
 ## 🛠️ Run/Test
