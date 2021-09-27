@@ -72,7 +72,7 @@ Project Open For Help And Any Ideas Are Welcome!
 
 Remember To Follow License Requirements...
 
-If you want to create your own cheep version access [for-the-devs.md](for-the-devs.md)
+[for-the-devs.md](for-the-devs.md)
 
 ## 🔖 License
 [![LICENSE](https://img.shields.io/badge/Custom_GPL_3.0-E58080?style=for-the-badge&logo=bookstack&logoColor=white)](/LICENSE)
