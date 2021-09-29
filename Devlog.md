@@ -28,4 +28,7 @@
 - created [for-the-devs.md](for-the-devs.md) to the devs who wants to help :)
 - updated some copyright things...
 
+## 29/09/2021
+- configured cheep [snap page](https://snapcraft.io/cheep)
+
 # That's All For Now
