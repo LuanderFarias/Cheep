@@ -1,44 +1,40 @@
 {
-  "name": "cheep",
-  "description": "Be a Gamer without Paying a Fortune!!",
-  "author": "@LuanderFarias",
-  "version": "0.1.5",
-  "license": "GPL-3.0",
-  "main": "index.js",
-  "scripts": {
-	"test": "electron .",
-	"start": "electron .",
-	"postinstall": "electron-builder install-app-deps",
-	"build": "electron-builder --mac --windows --linux",
-	"release": "electron-builder --mac --windows --linux --publish always",
-	"dist": "electron-builder --linux snap"
+ "name": "cheep",
+ "description": "Be a Gamer without Paying a Fortune!!",
+ "author": {
+  "name": "Luander De Faria",
+  "email": "luanderdefaria475@gmail.com",
+  "url": "https://github.com/LuanderFarias"
+ },
+ "version": "0.1.6",
+ "license": "GPL-3.0",
+ "main": "index.js",
+ "scripts": {
+  "test": "electron .",
+  "postinstall": "electron-builder install-app-deps",
+  "build": "electron-builder --windows --linux",
+  "linux": "electron-builder --linux",
+  "windows": "electron-builder --windows",
+  "release": "electron-builder --windows --linux --publish always"
+ },
+ "build": {
+  "appId": "com.LuanderFarias.Cheep",
+  "productName": "Cheep",
+  "linux": {
+   "target": [
+    "AppImage",
+    "deb"
+   ],
+   "category": "Development"
   },
-  "repository": "https://github.com/LuanderFarias/Cheep",
-  "keywords": [
-    "Electron",
-    "quick",
-    "start",
-    "tutorial",
-    "demo"
-  ],
-  "build": {
-	"appId": "com.LuanderFarias.Cheep",
-	"productName": "Cheep",
-	"linux": {
-		"target": [
-        	"AppImage",
-        	"deb"
-		],
-	"category": "Development"
-	},
-	"win": {
-		"target": "NSIS",
-		"icon": false
-	}
-},
-  "dependencies": {},
-  "devDependencies": {
-    "electron": "latest",
-    "electron-builder": "latest"
+  "win": {
+   "target": "NSIS",
+   "icon": false
   }
+ },
+ "dependencies": {},
+ "devDependencies": {
+  "electron": "latest",
+  "electron-builder": "^22.11.7"
+ }
 }
