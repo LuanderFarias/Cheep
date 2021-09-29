@@ -7,10 +7,20 @@
   "main": "index.js",
   "scripts": {
 	"test": "electron .",
+	"start": "electron .",
 	"postinstall": "electron-builder install-app-deps",
 	"build": "electron-builder --mac --windows --linux",
-	"release": "electron-builder --mac --windows --linux --publish always"
+	"release": "electron-builder --mac --windows --linux --publish always",
+	"dist": "electron-builder --linux snap"
   },
+  "repository": "https://github.com/LuanderFarias/Cheep",
+  "keywords": [
+    "Electron",
+    "quick",
+    "start",
+    "tutorial",
+    "demo"
+  ],
   "build": {
 	"appId": "com.LuanderFarias.Cheep",
 	"productName": "Cheep",
