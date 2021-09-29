@@ -42,6 +42,10 @@ Computer Version:
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/LuanderFarias/Cheep/releases)
 [![Linux](https://img.shields.io/badge/Linux-FF6600?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/LuanderFarias/Cheep/releases)
 
+Dont want an .exe/.deb?
+
+[![Disponível na Snap Store](https://snapcraft.io/static/images/badges/pt/snap-store-black.svg)](https://snapcraft.io/cheep)
+
 Future Smartphone Version?
 
 ## See Project Developement:
