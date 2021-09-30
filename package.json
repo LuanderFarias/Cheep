@@ -19,10 +19,9 @@
  },
  "build": {
   "appId": "com.LuanderFarias.Cheep",
-  "productName": "Cheep",
+  "productName": "cheep",
   "linux": {
    "target": [
-    "AppImage",
     "deb"
    ],
    "category": "Development"
