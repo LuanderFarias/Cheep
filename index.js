@@ -9,7 +9,7 @@ Menu.setApplicationMenu(false)
 function createWindow () {
   const mainWindow = new BrowserWindow({
     width: 800,
-    height: 500,
+    height: 600,
     resizable: false,
     backgroundColor: "#111",
     icon: __dirname + 'sources/icon.png',
