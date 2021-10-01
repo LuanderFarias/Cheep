@@ -12,7 +12,7 @@ function createWindow () {
     height: 600,
     resizable: false,
     backgroundColor: "#111",
-    icon: __dirname + '/src/sources/icon.png',
+    icon: __dirname + '/src/sources/CheepLogo.png',
     webPreferences: {
       preload: path.join(__dirname, 'preload.js'),
       nodeIntegration: true
