@@ -1,3 +1,5 @@
+<img src="CHEEP.png">
+
 # Cheep
 
 Cheep Is a Program For Cleanup, Modify, Boost Your Computer, Rec And Stream Your Screen And More!!
