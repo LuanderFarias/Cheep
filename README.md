@@ -46,7 +46,11 @@ Computer Version:
 
 Dont want a .exe/.deb?
 
-[![Disponível na Snap Store](https://snapcraft.io/static/images/badges/pt/snap-store-black.svg)](https://snapcraft.io/cheep)
+<a href="https://snapcraft.io/cheep">
+  <img width="160px" alt="Get it from the Snap Store" src="https://snapcraft.io/static/images/badges/en/snap-store-black.svg" />
+</a>
+
+<p></p>
 
 Future Smartphone Version?
 
