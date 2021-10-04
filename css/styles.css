@@ -43,31 +43,21 @@
      vertical-align:bottom;
    }
 
-   .panel{
-    position: absolute;
-    width: 80px;
-    height: 100px;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    background: #282828;
-    border: 3px solid white;
-    box-sizing: border-box;
-    box-shadow: 0px 10px 3px white;
-    border-radius: 15px;
-    }
-
-    .panel h1{
-      color: white;
-      text-align: center;
-      font-size: 36px;
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    }
-
-    .panel p{
-      color: white;
-      text-align: center;
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serifs;
+   .panel {
+      font-family: 'Source Sans Pro';
+      font-size: 1.3em;
+      position: absolute;
+      z-index: 10;
+      width: 200px;
+      height: 220px;
+      background: #eee;
+      top: 50%;
+      left: 50%;
+      margin: -110px 0 0 -100px;
+      padding: 20px;
+      border-radius: 4px;
+      box-sizing: border-box;
+      z-index: 100;
     }
 
     .panel :nth-child(3){
