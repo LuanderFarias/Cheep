@@ -46,8 +46,12 @@ Computer Version:
 
 Dont want a .exe/.deb?
 
+<a href='/flatpack.md'>
+  <img width="160px" alt='Download on Flathub' src='https://flathub.org/assets/badges/flathub-badge-en.png'/>
+</a>
+
 <a href="https://snapcraft.io/cheep">
-  <img width="160px" alt="Get it from the Snap Store" src="https://snapcraft.io/static/images/badges/en/snap-store-black.svg" />
+  <img width="170px" alt="Get it from the Snap Store" src="https://snapcraft.io/static/images/badges/en/snap-store-black.svg" />
 </a>
 
 <p></p>
