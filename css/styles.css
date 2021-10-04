@@ -70,10 +70,9 @@
       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serifs;
     }
 
-    .slogan{
+    .panel :nth-child(3){
       color: white;
       text-align: center;
-      font-size: 3px;
       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     }
    
