@@ -31,4 +31,7 @@
 ## 29/09/2021
 - configured cheep [snap page](https://snapcraft.io/cheep)
 
+## 06/10/2021
+- created first version of [cheep website](https://luanderfarias.github.io/Cheep/)
+
 # That's All For Now
