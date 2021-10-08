@@ -2,4 +2,4 @@
 ## Status:
 - Not Disponible
 ## Chance of being disponible:
-- ⬛⬛⬛⬛⬛⬛⬛⬛ 8%
+- ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛ 24%
