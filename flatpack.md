@@ -1,3 +1,5 @@
-# Cheep is not disponible on flathub yet...
+# Cheep On Flathub
 ## Status:
-- cheep is not disponible cause i will finish cheep 1.0.0 version before release...
+- Not Disponible
+## Chance of being disponible:
+- ⬛⬛⬛⬛⬛⬛⬛⬛ 8%
