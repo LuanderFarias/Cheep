@@ -68,7 +68,7 @@ For See The Current Developement, Access The Project Planning On:
 For See More Detailed Developement, Access The Project Devlog:
 
 [![Devlog](https://img.shields.io/badge/Devlog-999999?style=for-the-badge&logo=Files&logoColor=white
-)](/Devlog.md)
+)](https://gist.github.com/LuanderFarias/d729bd0fd33d2e77f1986279e3607104)
 
 ## Made With ❤️ And:
 [![ZORIN](https://img.shields.io/badge/Zorin_OS_15.3_lite-0CC1F3?style=for-the-badge&logo=Zorin&logoColor=white)](https://zorin.com/)
