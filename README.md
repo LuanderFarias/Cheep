@@ -46,7 +46,7 @@ Computer Version:
 
 Dont want a .exe/.deb?
 
-<a href='/flatpack.md'>
+<a href='/flathub.md'>
   <img width="160px" alt='Download on Flathub' src='https://flathub.org/assets/badges/flathub-badge-en.png'/>
 </a>
 
