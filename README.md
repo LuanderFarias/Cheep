@@ -1,4 +1,4 @@
-<img src="CHEEP.png">
+<img src="CheepBanner.png">
 
 # Cheep
 
