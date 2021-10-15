@@ -1,4 +1,4 @@
-<img src="CheepBanner.png">
+[![CheepBanner](/CheepBanner.png)](https://luanderfarias.github.io/Cheep/)
 
 # Cheep
 
