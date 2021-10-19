@@ -73,7 +73,7 @@ var pJS = function(tag_id, params){
       },
       move: {
         enable: true,
-        speed: 5,
+        speed: 2,
         direction: 'none',
         random: false,
         straight: false,
@@ -95,7 +95,7 @@ var pJS = function(tag_id, params){
           mode: 'grab'
         },
         onclick: {
-          enable: false,
+          enable: true,
           mode: 'push'
         },
         resize: true
