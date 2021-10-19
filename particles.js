@@ -45,35 +45,35 @@ var pJS = function(tag_id, params){
         }
       },
       opacity: {
-        value: 0.5,
+        value: 1,
         random: false,
         anim: {
           enable: false,
-          speed: 1,
-          opacity_min: 0.1,
+          speed: 2,
+          opacity_min: 0,
           sync: false
         }
       },
       size: {
-        value: 3,
-        random: true,
+        value: 20,
+        random: false,
         anim: {
           enable: false,
-          speed: 40,
-          size_min: 0.1,
+          speed: 20,
+          size_min: 0,
           sync: false
         }
       },
       line_linked: {
         enable: true,
-        distance: 150,
+        distance: 100,
         color: '#fff',
-        opacity: 0.4,
+        opacity: 1,
         width: 1
       },
       move: {
         enable: true,
-        speed: 6,
+        speed: 2,
         direction: 'none',
         random: false,
         straight: false,
@@ -81,8 +81,8 @@ var pJS = function(tag_id, params){
         bounce: false,
         attract: {
           enable: false,
-          rotateX: 600,
-          rotateY: 1200
+          rotateX: 3000,
+          rotateY: 3000
         }
       },
       array: []
@@ -96,23 +96,21 @@ var pJS = function(tag_id, params){
         },
         onclick: {
           enable: true,
-          mode: 'bubble'
+          mode: 'push'
         },
         resize: true
       },
       modes: {
         grab:{
-          distance: 400,
+          distance: 100,
           line_linked:{
             opacity: 1
           }
         },
         bubble:{
-          distance: 400,
-          size: 5,
-          duration: 2,
-          opacity: 8,
-          speed: 3  
+          distance: 200,
+          size: 80,
+          duration: 0.4
         },
         repulse:{
           distance: 200,
