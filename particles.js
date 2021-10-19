@@ -55,8 +55,8 @@ var pJS = function(tag_id, params){
         }
       },
       size: {
-        value: 20,
-        random: false,
+        value: 3,
+        random: true,
         anim: {
           enable: false,
           speed: 20,
@@ -92,10 +92,10 @@ var pJS = function(tag_id, params){
       events: {
         onhover: {
           enable: true,
-          mode: 'grab'
+          mode: 'bubble'
         },
         onclick: {
-          enable: true,
+          enable: false,
           mode: 'push'
         },
         resize: true
@@ -109,8 +109,10 @@ var pJS = function(tag_id, params){
         },
         bubble:{
           distance: 200,
-          size: 80,
-          duration: 0.4
+          size: 5,
+          duration: 0.4,
+          opacity: 8,
+          speed: 3
         },
         repulse:{
           distance: 200,
