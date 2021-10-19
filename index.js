@@ -1,7 +1,7 @@
 //main.js
-const {app, BrowserWindow, Menu, Tray} = require('electron')
-const path = require('path')
-const url = require('url')
+const {app, BrowserWindow, Menu, Tray} = require('electron');
+const path = require('path');
+const url = require('url');
 
 let appIcon = null
 Menu.setApplicationMenu(false)
@@ -11,14 +11,14 @@ function createWindow () {
     width: 800,
     height: 600,
     resizable: false,
-    backgroundColor: "#111",
-    icon: __dirname + '/src/sources/CheepLogo.png',
+    backgroundColor: "#181818",
+    icon: __dirname + './CheepLogo.png',
     webPreferences: {
       preload: path.join(__dirname, 'preload.js'),
       nodeIntegration: true
     }
   })
-  mainWindow.loadFile('/scr/index.html')
+  mainWindow.loadFile('./scr/index.html')
 }
 
 app.whenReady().then(() => {
@@ -30,6 +30,5 @@ app.whenReady().then(() => {
 })
 
 app.on('window-all-closed', function () {
-  if (process.platform !== 'darwin')
-  app.quit()
+  if (process.platform !== 'darwin') app.quit()
 })
