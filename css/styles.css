@@ -43,7 +43,7 @@ body{
 
 .label i {
    color: white;
-   padding-right: 2px;
+   padding: 1px;
 }
 
 .panel {
