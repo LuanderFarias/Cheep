@@ -41,6 +41,11 @@ body{
   transition: color 0.2s ease;
 }
 
+.label i {
+   color: white;
+   padding-right: 2px;
+}
+
 .panel {
   font-family: "Source Sans Pro";
   font-size: 1.3em;
