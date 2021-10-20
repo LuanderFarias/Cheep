@@ -132,7 +132,7 @@ body{
   transition: 0.3s;
 }
 
-.panel li:hover span {
+.panel li:hover span, i {
   color: black;
   transition: 0.3s;
 }
