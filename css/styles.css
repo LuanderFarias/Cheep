@@ -41,9 +41,9 @@ body{
   transition: color 0.2s ease;
 }
 
-span i {
+.label i {
    color: white;
-   padding: 3px;
+   padding: 10px;
 }
 
 .panel {
