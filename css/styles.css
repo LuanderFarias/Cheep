@@ -41,7 +41,7 @@ body{
   transition: color 0.2s ease;
 }
 
-.label i {
+span i {
    color: white;
    padding-right: 2px;
 }
