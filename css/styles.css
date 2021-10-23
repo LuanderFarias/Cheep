@@ -129,12 +129,7 @@ body{
 .panel li:hover {
   background: #808080;
   color: #fff;
-  transition: 0.3s;
-}
-
-.panel li:hover span, i {
-  color: black;
-  transition: 0.3s;
+  transition: 0.5s;
 }
 
 footer {
