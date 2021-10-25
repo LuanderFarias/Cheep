@@ -18,7 +18,7 @@ function createWindow () {
       nodeIntegration: true
     }
   })
-  mainWindow.loadFile('./scr/index.html')
+  mainWindow.loadFile('./src/index.html')
 }
 
 app.whenReady().then(() => {
