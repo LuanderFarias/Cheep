@@ -1,8 +1,0 @@
-node_modules
-dist/linux-unpacked
-dist/builder-debug.yml
-dist/builder-effective-config.yaml
-dist/latest-linux.yml
-dist/Cheep-0.1.6.AppImage
-
-dist/win-unpacked
