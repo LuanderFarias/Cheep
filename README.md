@@ -71,11 +71,7 @@ Remember To Follow License Requirements...
 [for-the-devs.md](for-the-devs.md)
 
 ## 🔖 License
-[![LICENSE](https://img.shields.io/badge/Custom_GPL_3.0-E58080?style=for-the-badge&logo=bookstack&logoColor=white)](/LICENSE)
-
-## 💰 Donate
-[![Ko-fi Badge](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/luanderfarias)
-[![Patreon Badge](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white&link=https://patreon.com/LuanderFarias)](https://patreon.com/LuanderFarias)
+[![LICENSE](https://img.shields.io/badge/MIT_License-E58080?style=for-the-badge&logo=bookstack&logoColor=white)](/LICENSE)
 
 ### Support Or Contact
 
