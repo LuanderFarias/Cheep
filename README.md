@@ -1,5 +1,3 @@
-<h1 align="center"> ❗ Project is gonna be back soon ❗ </h1>
-
 # Cheep
 
 Cheep Is a Program For Cleanup, Modify, Boost Your Computer, Rec And Stream Your Screen And More!!
