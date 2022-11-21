@@ -38,41 +38,47 @@ There's a lot of modules on my head that i want to write on the future. Maybe on
 
 ## Download
 You can download cheep from releases on the official github repository, microsoft store, snapcraft or on the website.
-- [github](https://github.com/luanderfarias/cheep)
-- [microsoft store](https://www.example.com)
-- [snapcraft](https://www.example.com)
+- [Github](https://github.com/luanderfarias/cheep)
+- [Microsoft store](https://www.example.com)
+- [Snapcraft](https://www.example.com)
 - [Cheep](https://www.example.com)
 
 ## Dev Stuff
 
 ### Prerequisites
 Requirements for develop, push and test cheep.
-- [tauri](https://www.tauri.app)
+- [Tauri](https://www.tauri.app)
 - [Microsoft Visual Studio C++ Build Tools](https://visualstudio.microsoft.com/pt-br/visual-cpp-build-tools/)
 - [WebView2 (Evergreen Bootstrapper)](https://developer.microsoft.com/en-us/microsoft-edge/webview2/#download-section)
-- [rust](https://www.rust-lang.org/tools/install)
-- [nodejs](https://nodejs.org/en/)
+- [Rust](https://www.rust-lang.org/tools/install)
+- [NodeJS](https://nodejs.org/en/)
 
 ### Installing
 
 1.Clone the repository
 
-````git clone https://github.com/luanderfarias/cheep````
+```sh
+  git clone https://github.com/luanderfarias/cheep
+```
 
 2.Cd in the project paste
 
-```cd cheep```
+```sh
+  cd cheep
+```
 
 ## Running the tests
 
 ### Dev tests
 
-```npm run tauri dev```
+```sh
+  npm run tauri dev
+```
 
 ## Built With
-- [tauri](https://www.tauri.app/) - Main framework
-- [rust](https://creativecommons.org/) - Used to run the main complex commands on the windows system
-- [nodejs](https://nodejs.org/en/) - Used to manage packages (npm) and run commands on windows system
+- [Tauri](https://www.tauri.app/) - Main framework
+- [Rust](https://creativecommons.org/) - Used to run the main complex commands on the windows system
+- [NodeJS](https://nodejs.org/en/) - Used to manage packages (npm) and run commands on windows system
 
 ## Contributing
 
