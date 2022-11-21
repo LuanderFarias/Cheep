@@ -1,63 +1,92 @@
 # Cheep
 
-Cheep Is a Program For Cleanup, Modify, Boost Your Computer, Rec And Stream Your Screen And More!!
+Cheep Is a **Multifunctional** program for cleanup, Modify, Boost your computer, Rec And stream your screen and more. Cheep was made to do important functions without need to install a lot of programs. Recently i've started a tech startup so now im not working on cheep alone... im working with <a href="https://github.com/nikoidot">@nikoidot</a>.
 
-## 🔧 Functions
+## Functions
 
-### Bass Boost:
-- Module That Cleans The Pc's Memory And Adjusts For The Best Possible Performance On The Computer!
+### Bass Boost
 
-### Game Boost:
-- Module That Can Make The Game Runs With "Custom Performance" It Adjusts Resolution, RenderDistance, Reflexions And More...
+This module cleans the pc memory, lower the graphics and adjusts a lot of other things to make your pc runs at the best performance possible.
 
-### Keyboard Module:
-- Module Where You Can Test Your Type Speed And Make Your Keyboard Sound As a Mechanical Keyboard.
+### Game Boost
 
-### Wallpaper Module:
-- Module For Apply Static Or Animated Wallpapers.
+A module that modify (safely) the game archives to make it run with "custom performance" the module adjust things like Resolution, RenderDistance, Reflexions, fog, etc...
 
-### DIY Module:
-- Tutorials Of How To Modify Your Pherifericals To Place Led's, Casemod And Others...
+### Keyboard Module
 
-### Screen Recorder Module:
+Maybe you will find this module a joke but... Basically you can test your type speed and make your keyboard sound as a mechanical keyboard... sorry, i liked the idea.
 
-- Module For Rec Your Screen!!
+### Wallpaper Module
 
-### Stream Module:
+Module for apply, explore and create static or Animated Wallpapers.
 
-- Module For Make Lives On That Purple And That Red Plataform 😉
+### Dirty Hand
 
-### Developer Mode:
+More like a video platform this module let you watch tutorials of how to yodify your pherifericals, create casemod's, teardown consoles, etc...
 
-- Module that gathers a lot of dev tools for developement, including famous apis!!, like githubAPI, Devdocs and more...
+### Screen Recorder
 
-### And More!!
+Well... it's a screen recorder.
 
-- Others Modules Coming Soon...
+### Devmode
+
+Module that gathers a lot of dev tools for developement, including famous api's. Like githubAPI, Devdocs and more...
+
+### Endless
+
+There's a lot of modules on my head that i want to write on the future. Maybe one day they will see the light of the day.
 
 ## Download
+You can download cheep from releases on the official github repository, microsoft store, snapcraft or on the website.
+- [github](https://github.com/luanderfarias/cheep)
+- [microsoft store](https://www.example.com)
+- [snapcraft](https://www.example.com)
+- [Cheep](https://www.example.com)
 
-Computer Version:
+## Dev Stuff
 
-[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/LuanderFarias/Cheep/releases)
-[![Linux](https://img.shields.io/badge/Linux-FF6600?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/LuanderFarias/Cheep/releases)
+### Prerequisites
+Requirements for develop, push and test cheep.
+- [tauri](https://www.tauri.app)
+- [Microsoft Visual Studio C++ Build Tools](https://visualstudio.microsoft.com/pt-br/visual-cpp-build-tools/)
+- [WebView2 (Evergreen Bootstrapper)](https://developer.microsoft.com/en-us/microsoft-edge/webview2/#download-section)
+- [rust](https://www.rust-lang.org/tools/install)
+- [nodejs](https://nodejs.org/en/)
 
-Future Smartphone Version?
+### Installing
 
-## 🤝 contribution
+1.Clone the repository
 
-Project Open For Help And Any Ideas Are Welcome!
+````git clone https://github.com/luanderfarias/cheep````
 
-Remember To Follow License Requirements...
+2.Cd in the project paste
 
-[for-the-devs.md](for-the-devs.md)
+```cd cheep```
 
-## 🔖 License
-[![LICENSE](https://img.shields.io/badge/MIT_License-E58080?style=for-the-badge&logo=bookstack&logoColor=white)](/LICENSE)
+## Running the tests
 
-### Support Or Contact
+### Dev tests
 
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/luanderfarias/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luander-de-faria-474269205/)
+```npm run tauri dev```
 
-<p align="center">Copyright © 2022 Luander De Faria</p>
+## Built With
+- [tauri](https://www.tauri.app/) - Main framework
+- [rust](https://creativecommons.org/) - Used to run the main complex commands on the windows system
+- [nodejs](https://nodejs.org/en/) - Used to manage packages (npm) and run commands on windows system
+
+## Contributing
+
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code
+of conduct, and the process for submitting pull requests to us.
+
+## Authors
+[LuanderFarias](https://github.com/LuanderFarias) - *Idealized and created cheep.*
+
+See also the list of
+[contributors](https://github.com/luanderfarias/cheep/contributors)
+who participated in this project.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE.md) - see the [LICENSE.md](LICENSE.md) file for
+details
