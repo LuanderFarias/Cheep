@@ -22,7 +22,7 @@ Module for apply, explore and create static or Animated Wallpapers.
 
 ### Dirty Hand
 
-More like a video platform this module let you watch tutorials of how to yodify your pherifericals, create casemod's, teardown consoles, etc...
+More like a video platform this module let you watch tutorials of how to modify your pherifericals, create casemod's, teardown consoles, etc...
 
 ### Screen Recorder
 
